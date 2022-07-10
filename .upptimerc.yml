@@ -19,8 +19,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: up.montalti.win
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Monitor 
+  #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  #name: Monitor 
   introTitle: "**UpTime** ad intervalli di 5 minuti."
   introMessage: Pagina **real-time** di monitor siti
   navbar:
