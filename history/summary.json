@@ -2,7 +2,7 @@
   {
     "name": "montalti.it",
     "url": "https://www.montalti.it",
-    "icon": "https://favicons.githubusercontent.com/www.montalti.it",
+    "icon": "https://www.google.com/favicon.ico",
     "slug": "montalti-it",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 930,
-    "timeDay": 930,
-    "timeWeek": 930,
-    "timeMonth": 930,
-    "timeYear": 930,
+    "time": 909,
+    "timeDay": 909,
+    "timeWeek": 909,
+    "timeMonth": 909,
+    "timeYear": 909,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1748,
-    "timeDay": 1748,
-    "timeWeek": 1748,
-    "timeMonth": 1748,
-    "timeYear": 1748,
+    "time": 1676,
+    "timeDay": 1676,
+    "timeWeek": 1676,
+    "timeMonth": 1676,
+    "timeYear": 1676,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 323,
-    "timeDay": 323,
-    "timeWeek": 323,
-    "timeMonth": 323,
-    "timeYear": 323,
+    "time": 331,
+    "timeDay": 331,
+    "timeWeek": 331,
+    "timeMonth": 331,
+    "timeYear": 331,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 362,
-    "timeDay": 362,
-    "timeWeek": 362,
-    "timeMonth": 362,
-    "timeYear": 362,
+    "time": 346,
+    "timeDay": 346,
+    "timeWeek": 346,
+    "timeMonth": 346,
+    "timeYear": 346,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 328,
-    "timeDay": 328,
-    "timeWeek": 328,
-    "timeMonth": 328,
-    "timeYear": 328,
+    "time": 310,
+    "timeDay": 310,
+    "timeWeek": 310,
+    "timeMonth": 310,
+    "timeYear": 310,
     "dailyMinutesDown": {}
   }
 ]
