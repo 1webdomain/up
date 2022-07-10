@@ -43,6 +43,10 @@ i18n:
   footer: by montalti.win
   allSystemsOperational: Tutti i sistemi sono operativi
   overallUptimeTitle: uptime complessivo
-  overallUptime: "uptime complessivo: $UPTIME"
-  averageResponseTime: "Tempo di risposta medio: $TIMEms"
-  liveStatus: Stato live
+  overallUptime: "upTime Totale: $UPTIME"
+  averageResponseTime: "Tempo medio: $TIMEms"
+  averageResponseTimeTitle: T medio
+  sevelDayResponseTime: T settimanale
+  responseTimeMs: T risposta (ms)
+  liveStatus: Live
+
