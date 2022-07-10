@@ -18,9 +18,6 @@ sites:
   - name: montalti.net
     url: https://www.montalti.net 
     icon: https://www.google.com/favicon.ico
-   - name: montalti.eu
-    url: https://www.montalti.eu 
-    icon: https://www.google.com/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -29,8 +26,8 @@ status-website:
   # baseUrl: /your-repo-name
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   #name: Monitor 
-  introTitle: "**UpTime**"
-  introMessage: Pagina **real-time** di monitor siti ad intervalli di 5 minuti.
+  introTitle: "**UpTime** ad intervalli di 5 minuti."
+  introMessage: Pagina **real-time** di monitor siti
   navbar:
     - title: Stato
       href: /
@@ -43,9 +40,6 @@ i18n:
   footer: by montalti.win
   allSystemsOperational: Tutti i sistemi sono operativi
   overallUptimeTitle: uptime complessivo
-  overallUptime: "upTime Totale: $UPTIME"
-  averageResponseTime: "Tempo medio: $TIMEms"
-  averageResponseTimeTitle: T medio
-  sevelDayResponseTime: T settimanale
-  responseTimeMs: T risposta (ms)
-  liveStatus: Live
+  overallUptime: "uptime complessivo: $UPTIME"
+  averageResponseTime: "Tempo di risposta medio: $TIMEms"
+  liveStatus: Stato live
