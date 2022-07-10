@@ -31,7 +31,7 @@ status-website:
   #name: Monitor 
   #favicon: https://www.sito.com/favicon.ico
   customHeadHtml: " UpTime ad intervalli reali di 5 minuti "
-  customBodyHtml: " check RealTime 
+  customBodyHtml: " check RealTime "
   theme: light
   introTitle: "**UpTime** ad intervalli di 5 minuti."
   introMessage: Pagina **real-time** di monitor siti
