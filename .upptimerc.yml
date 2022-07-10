@@ -30,8 +30,8 @@ status-website:
   # baseUrl: /your-repo-name
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   #name: Monitor 
-  introTitle: "**UpTime** ad intervalli di 5 minuti."
-  introMessage: Pagina **real-time** di monitor siti
+  introTitle: "**UpTime**"
+  introMessage: Pagina **real-time** di monitor siti ad intervalli di 5 minuti.
   navbar:
     - title: Stato
       href: /
@@ -44,6 +44,9 @@ i18n:
   footer: by montalti.win
   allSystemsOperational: Tutti i sistemi sono operativi
   overallUptimeTitle: uptime complessivo
-  overallUptime: "uptime complessivo: $UPTIME"
-  averageResponseTime: "Tempo di risposta medio: $TIMEms"
-  liveStatus: Stato live
+  overallUptime: "upTime Totale: $UPTIME"
+  averageResponseTime: "Tempo medio: $TIMEms"
+  averageResponseTimeTitle: T medio
+  sevelDayResponseTime: T settimanale
+  responseTimeMs: T risposta (ms)
+  liveStatus: Live
