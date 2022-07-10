@@ -18,6 +18,9 @@ sites:
   - name: montalti.net
     url: https://www.montalti.net 
     icon: https://www.google.com/favicon.ico
+   - name: montalti.eu
+    url: https://www.montalti.eu 
+    icon: https://www.google.com/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
