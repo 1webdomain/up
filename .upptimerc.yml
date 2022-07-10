@@ -5,7 +5,6 @@ repo: up # The name of this repository
 sites:
   - name: montalti.it
     url: https://www.montalti.it
-    check: "tcp-ping"
     icon: https://www.google.com/favicon.ico
   - name: montalti.biz
     url: https://www.montalti.biz
