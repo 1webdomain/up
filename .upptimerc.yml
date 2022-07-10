@@ -34,3 +34,4 @@ status-website:
 i18n:
   footer: by montalti.win
   allSystemsOperational: Tutti i sistemi sono operativi
+  overallUptimeTitle: uptime complessivo
