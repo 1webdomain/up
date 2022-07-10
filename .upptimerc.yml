@@ -30,7 +30,8 @@ status-website:
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   #name: Monitor 
   #favicon: https://www.sito.com/favicon.ico
-  customHeadHtml: " ciao "
+  customHeadHtml: " UpTime ad intervalli reali di 5 minuti "
+  customHeadHtml: "<link href="data:image/x-icon;base64,AAABAAEAEBAQAAAAAAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAA1xwAA////AAAA2QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABERESIiIAAAERERIiIgAAAREREiIiAAABERESIiIAAAERERIiIgAAAREREiIiAAABERESIiIAAAERERIiIgAAAREREiIiAAABERESIiIAAAERERIiIgAAAREREiIiAAABERESIiIAAAERERIiIgAAAREREiIiAAABERESIiIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" rel="icon" type="image/x-icon" />"
   theme: light
   introTitle: "**UpTime** ad intervalli di 5 minuti."
   introMessage: Pagina **real-time** di monitor siti
