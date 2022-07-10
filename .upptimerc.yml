@@ -45,7 +45,7 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 i18n:
   footer: by montalti.win
-  allSystemsOperational: Tutti i sistemi sono operativi
+  allSystemsOperational: Tutti operativi
   overallUptimeTitle: uptime complessivo
   overallUptime: "upTime Totale: $UPTIME"
   averageResponseTime: "Tempo medio: $TIMEms"
