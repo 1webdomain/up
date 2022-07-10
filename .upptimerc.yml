@@ -29,6 +29,7 @@ status-website:
   # baseUrl: /your-repo-name
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   #name: Monitor 
+  favicon: https://www.google.com/favicon.png
   theme: light
   introTitle: "**UpTime** ad intervalli di 5 minuti."
   introMessage: Pagina **real-time** di monitor siti
