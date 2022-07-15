@@ -58,7 +58,7 @@
     "url": "https://www.montalti.info",
     "icon": "https://www.google.com/favicon.ico",
     "slug": "montalti-info",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 327,
     "timeMonth": 327,
     "timeYear": 327,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-15": 0
+    }
   },
   {
     "name": "montalti.net",
