@@ -58,19 +58,19 @@
     "url": "https://www.montalti.info",
     "icon": "https://www.google.com/favicon.ico",
     "slug": "montalti-info",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 327,
-    "timeDay": 250,
-    "timeWeek": 327,
-    "timeMonth": 327,
-    "timeYear": 327,
+    "status": "up",
+    "uptime": "99.69%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
+    "time": 319,
+    "timeDay": 181,
+    "timeWeek": 319,
+    "timeMonth": 319,
+    "timeYear": 319,
     "dailyMinutesDown": {
-      "2022-07-15": 0
+      "2022-07-15": 25
     }
   },
   {
